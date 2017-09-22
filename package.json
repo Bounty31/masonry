@@ -5,7 +5,7 @@
   "main": "masonry.js",
   "dependencies": {
     "get-size": "^2.0.2",
-    "outlayer": "^2.1.0"
+    "outlayer": "https://github.com/Bounty31/outlayer.git"
   },
   "devDependencies": {
     "chalk": "^1.1.1",
